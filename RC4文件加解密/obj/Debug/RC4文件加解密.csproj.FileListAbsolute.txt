@@ -1,0 +1,10 @@
+E:\vs\RC4文件加密\RC4文件加解密\bin\Debug\RC4文件加解密.exe.config
+E:\vs\RC4文件加密\RC4文件加解密\bin\Debug\RC4文件加解密.exe
+E:\vs\RC4文件加密\RC4文件加解密\bin\Debug\RC4文件加解密.pdb
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.csprojAssemblyReference.cache
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.Form1.resources
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.Properties.Resources.resources
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.csproj.GenerateResource.cache
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.csproj.CoreCompileInputs.cache
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.exe
+E:\vs\RC4文件加密\RC4文件加解密\obj\Debug\RC4文件加解密.pdb
